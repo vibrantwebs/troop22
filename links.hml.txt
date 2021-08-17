@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Links Page</title>
+</head>
+<body bgcolor="#BBAA00" text="#000000">
+<h1>Links Page</h1>
+<br>
+<br>
+<a href="http://www.scouting.org">www.scouting.org</a><br>
+This website is the national scouting website. It has tons of resources to answer any questions you might have about
+scouting in general.<br>
+<br>
+<a href="http://www.nyltc.4t.com">www.nyltc.4t.com</a><br>
+This is the website for National Youth Leadership training of Mississippi Valley Council. You can find more information
+about <a href="http://www.troop22quincy.8m.com/infosection/nylt.html">NYLT</a> on this website.<br>
+<br>
+<a href="http://www.mississippivalleybsa.org">www.mississippivalleycouncilbsa.org</a><br>
+This is the official website for our Mississippi Valley Council, of which Troop 22 is in.<br>
+<br>
+<a href="http://www.main.oa-bsa.org">www.main.oa-bsa.org"</a><br>
+This is the national website for Order of the Arrow members. It has content for both members and non-members of the
+Order of the Arrow.<br>
+<br>
+<a href="http://www.boyslife.org">www.boyslife.org</a><br>
+This is the website for Boys Life magazine, exclusively for scouts. The magazine has articles, jokes, comics, and other
+scout-related content.<br>
+<br>
+<a href="http://www.inquiry.net">www.inquiry.net</a><br>
+This website is a terrific resource for scouts. It has information on just about every topic that involves scouting.<br>
+<br>
+<a href="http://www.troop22quincy.8m.com">[Return Home]</a>
+<br>
+</body>
+</html>
